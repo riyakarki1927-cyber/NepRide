@@ -11,7 +11,7 @@ Final-year project using MVC architecture, real-time tracking, and AI-powered de
 |---|---|
 | Frontend | React.js, Tailwind CSS, Chart.js |
 | Backend | Node.js, Express.js, Socket.IO |
-| Database | MongoDB Atlas (Mongoose) |
+| Database | SQL|
 | AI/ML | Python, FastAPI, scikit-learn, Pandas |
 | Maps | Google Maps JavaScript API |
 
